@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p156517-e1658217.adobeaemcloud.com//bin/franklin.delivery/gkartheek/aem-eds/main"
+    url: "https://author-p156517-e1658217.adobeaemcloud.com/bin/franklin.delivery/gkartheek/aem-eds/main"
     type: "markup"
     suffix: ".html"
