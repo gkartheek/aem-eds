@@ -288,5 +288,6 @@
         "label": "CTA label",
         "valueType": "string"
       }
-    }
+    ]
+  }
 ]
